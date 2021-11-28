@@ -1,0 +1,4 @@
+API/venv
+API/__pycache__
+FrontEnd/hello-world/node_modules/*
+
